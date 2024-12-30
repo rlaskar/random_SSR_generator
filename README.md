@@ -29,7 +29,7 @@ The generated sequences are saved in the FASTA file format. Each sequence in the
 
 1. Clone the repository:
 ```
-git clone [Repository Link]
+git clone https://github.com/rlaskar/random_SSR_generator.git
 cd [Repository Folder]
 ```
 
